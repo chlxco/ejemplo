@@ -1,6 +1,6 @@
 --- 
-title: "Ultimo ejemplo"
-author: "Andres, David, Luis"
+title: "Ultimo ejemplo de la noche"
+author: "Andres, David, Luis - Grupo B"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook

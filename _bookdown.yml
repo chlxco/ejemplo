@@ -1,4 +1,5 @@
 book_filename: "bookdown-demo"
+output_dir: salida
 language:
   ui:
     chapter_name: "Chapter "
